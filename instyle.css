@@ -20,3 +20,23 @@ body {
 .navbar a:hover {
     background-color: #746c6c;
 }
+
+.focim{
+    text-align: center;
+    font-size: 260%;
+    color: rgb(206, 80, 238);
+}
+
+p{
+    margin-right: 3%;
+    margin-left: 3%;
+    font-size: 140%;
+}
+
+.kep{
+    height: auto;
+    width: 30%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
