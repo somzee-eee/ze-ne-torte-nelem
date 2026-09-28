@@ -20,3 +20,16 @@ body {
 .navbar a:hover {
     background-color: #746c6c;
 }
+
+.hh{
+    text-align: center;
+    font-size: 245%;
+}
+
+.ha{
+    font-size: 190%;
+}
+
+.hn{
+    font-size: 130%;
+}
